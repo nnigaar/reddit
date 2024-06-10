@@ -1,1 +1,1 @@
-# reddt
+# reddit
